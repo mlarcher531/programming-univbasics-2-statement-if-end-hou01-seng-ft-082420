@@ -1,4 +1,4 @@
-greeting = "unfriendly_greeting"
+greeting = "unfrndly_greeting"
 case greeting
 when "unfriendly_greeting"
   puts "What do you want?!"
