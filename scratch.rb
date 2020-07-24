@@ -7,4 +7,3 @@ when "friendly_greeting"
 else
   puts "Do I know you?"
 end
-
